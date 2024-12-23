@@ -89,5 +89,4 @@ result_q2 = qy.getCulturalHeritageObjectByType("Nautical chart")
 # etc...
 ```
 =======
-# data-science2024
->>>>>>> 3384e3b1c7dd5780838e0c0000f322d7020b876f
+
