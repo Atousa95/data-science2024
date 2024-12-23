@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Data Science: project
 
 The goal of the project is to develop a software that enables one to process data stored in CSV format and to upload them into an relational databases to query it according to predefined operations. 
